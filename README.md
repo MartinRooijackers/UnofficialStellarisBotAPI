@@ -36,11 +36,16 @@ Beside paradox probably not wanting people to reverse engineer their game, it wo
 
 Paradox development studio games don't use VAC, so you won't get a VAC ban. You can thus run this in single player, and in multiplayer with just you and the bot without any trouble. In single player, you can set iron man to true and still get achievements because this isn't a mod, but an external program, and thus won't change the checksum (and any other check for a modded game). But if you want an achievement without playing yourself you can just use a steam achievement manager anyway.
 
-In multiplayer it depends on whether or not the host will allow it. The bot could technially be used to substitute a player who is afk, but it is up to the host to determine if that is allowed. If you use it even though it isn't allowed, you could get banned from that specific server. But you can still host/join other games.
+In multiplayer it depends on whether or not the host will allow it. The bot could technially be used to substitute a player who is afk, but it is up to the host to determine if that is allowed. If you use it even though it isn't allowed, you could get banned from that specific server, but you can still host/join other games.
 
 \# <b>How will multiplayer work? can you do a compstomp (human vs bot)?</b>
 
 The easiest way to play with/against bots with this bot API is to buy another copy of the base game of stellaris and let the bot run on that one. The host is the only one who needs the DLC. You could set the bots into a team (for compstomp), though how effective they will be together depends on how the bot is programmed. This bot API only gives a framework so more sophisticated bots can be created. Weather or not they actually will be depends on the bot author.
+
+\# <b> Will the bot get extra resources or no fog of war? </b>
+ 
+ No, the bot only has acces to the same information a human player has. The bot can also only do actions a human player can.
+ The bot might have some advantage in terms of how fast it can execute actions, but that is rarely a deciding factor in Stellaris (as opposed to something like Counter Strike).
 
 \# <b>Will it work with mods? Do I need any DLC?</b>
 
