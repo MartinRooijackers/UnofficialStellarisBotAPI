@@ -1,5 +1,5 @@
 # Unofficial Stellaris Bot API
-This is the github page for the unofficial Stellaris bot API (working title). An API which will allow anyone to create bots for stellaris that have full control over their galactic empire, as opposed to the scripted bots on the workshop which are mostly confined to changing AI weights. Unlike those AI mods, this API will allow a bot to do anything a human player can.
+This is the github page for the unofficial Stellaris bot API (working title). An API which will allow anyone to create bots for stellaris that have full control over their galactic empire, as opposed to the scripted bots on the workshop which are mostly confined to changing AI weights. Unlike those AI mods, this API will allow a bot to do anything a human player can. It is under development, an Alpha version will be released soon.
 
 This bot API is machine vision based, because paradox probably won't like it if I or others started to reverse engineer their game(s).
 
