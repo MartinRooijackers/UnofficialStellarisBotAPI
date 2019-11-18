@@ -10,6 +10,9 @@ Example of OpenCV text detection on Stellaris:<br>
 Reddit for Stellaris AI: https://www.reddit.com/r/StellarisAI/ <br>
 My reddit account (for PM): https://www.reddit.com/user/LetaBot/ <br>
 My email:   letabot  (a) gmx  (.) com <br>
+Discord username: LetaBot#3490 <br>
+Discord to dicsuss this project (link): https://discord.gg/xuGH22p <br>
+
 
 If you want to contribute, feel free to use any of the above ways to get in contact
 
