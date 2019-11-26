@@ -6,6 +6,8 @@ This bot API is machine vision based, because paradox probably won't like it if 
 Example of OpenCV text detection on Stellaris:<br>
 <img width="60%" src ="https://i.imgur.com/FwcMKOA.png"/><br>
 
+The AI in action:  https://www.reddit.com/r/StellarisAI/comments/dxueow/testing_the_detection_clicking_combo_first_time/
+
 <b>Contact:</b> <br>
 Reddit for Stellaris AI: https://www.reddit.com/r/StellarisAI/ <br>
 My reddit account (for PM): https://www.reddit.com/user/LetaBot/ <br>
