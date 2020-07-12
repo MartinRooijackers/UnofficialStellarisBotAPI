@@ -1,0 +1,1 @@
+Auto host for Stellaris
