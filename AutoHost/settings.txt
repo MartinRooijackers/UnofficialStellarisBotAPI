@@ -1,0 +1,19 @@
+Tesseract Location:D:\Tesseract-OCR\
+Paradox Document Folder:C:/Users/Gebruiker/Documents/Paradox Interactive/Stellaris/
+Message Lobby:G Green test message
+Players Needed:3
+UIfix:true
+Seconds between message:10
+Starting vote message:Starting vote to start the game. Vote 1 for yes, 2 for no
+Autostart lobby message:Got enough people, starting game
+Automessage in-game chat:Test message for chat in game
+Votestart passed message:vote passed, starting game
+Votestart failed message:vote failed, game not starting atm
+Second to ready up:5
+Players needed to start vote:2
+Amount of seconds a vote will last:20
+Amount of seconds till auto unpause:10
+Auto unpause activated message:auto unpause now activated
+Help Command message:The following commands are availabe, !sessionID , !votestart
+Percentage of players that need to vote:30
+Username to ignore:LetaBot
