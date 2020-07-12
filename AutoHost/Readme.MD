@@ -1,5 +1,7 @@
 Auto host for Stellaris
 
+.exe files and DLL can be gotten from: http://www.filedropper.com/stuffyouneedtorunthis_2
+
 
 NOTE: This program will essentially take over your mouse and keyboard to perform actions.
 You can hold down right control for about 10 seconds to close the program.
